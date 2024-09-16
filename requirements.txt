@@ -1,0 +1,10 @@
+Django
+djangorestframework
+drf-jsonmask
+drf-yasg
+django-extensions
+pytest
+pytest-django
+ipdb
+pre-commit
+factory_boy
