@@ -3,6 +3,7 @@ djangorestframework
 drf-jsonmask
 drf-yasg
 django-extensions
+django-rest-swagger
 pytest
 pytest-django
 ipdb
