@@ -36,4 +36,4 @@ $ ./manage.py migrate
 
 ## DB STRUCTURE
 
-<img alt='DB Stucture' align='center' src='./img/item_catalog.png'>
+![Data Base Diagram](./assets/item_catalog.png)
