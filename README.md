@@ -34,6 +34,6 @@ $ ./manage.py makemigrations
 $ ./manage.py migrate
 ```
 
-## DB STRUCTURE
+## DATABASE STRUCTURE
 
-![Data Base Diagram](./assets/item_catalog.png)
+![Data Base Diagram](./docs/item_catalog.svg)

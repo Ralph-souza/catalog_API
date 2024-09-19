@@ -3,8 +3,6 @@ services:
     build: .
     image: ralphssouza/catalog-image:latest
     container_name: catalog-api
-    volumes:
-      - .:/catalog_api
     ports:
       - "8000:8000"
     command: python manage.py runserver 0.0.0.0:8000
